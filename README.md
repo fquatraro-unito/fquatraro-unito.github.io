@@ -1,4 +1,4 @@
-# Francesco Quatraro — personal website draft
+# Francesco Quatraro — personal website
 
 A custom responsive design for https://fquatraro-unito.github.io, using GitHub Pages' built-in Jekyll support. No JavaScript, external fonts or paid services are required.
 
@@ -26,10 +26,8 @@ Open `index.md` in GitHub and select the pencil icon. Edit the prose, then commi
 - The header, introductory text and footer live in `_layouts/default.html`.
 - Site title and metadata live in `_config.yml`.
 
-## Draft scope and next additions
+## Migrated content
 
-Content was taken from the public Google Sites homepage on 23 September 2026. This is a homepage design draft, not a verified full migration. Publications, a downloadable CV, a portrait and direct contact details have not been supplied or imported. No publication list, email address, news items or course details have been invented. Confirm current roles before publishing. The temporary link to Google Sites can be removed once migration is complete.
+The site is organised into a home page, research, publications, teaching and roles, and profiles and links. The content was migrated from the public Google Sites profile on 23 September 2026. The publications page preserves the three source research strands, all 44 representative publications, and their DOI links.
 
-Suggested next additions: selected publications and working papers; CV PDF; professional portrait; institutional contact link; individual research and teaching pages when the content warrants them.
-
-The separate HTML preview is self-contained for local review. It is not the editable Jekyll source and need not be uploaded to the repository.
+The previous Google Sites profile remains linked from the profiles page for reference. Current roles, institutional links and external researcher profiles should be reviewed periodically.
