@@ -1,0 +1,6 @@
+title: Francesco Quatraro
+description: Economics of innovation, regional development and sustainable transitions.
+url: https://fquatraro-unito.github.io
+baseurl: ""
+markdown: kramdown
+exclude: [README.md]
