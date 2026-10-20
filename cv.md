@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Curriculum vitae
+description: Positions, education, honours, editorial work and service.
 permalink: /cv/
 ---
 

@@ -1,6 +1,6 @@
 # Francesco Quatraro — personal website
 
-A custom responsive design for https://fquatraro-unito.github.io, using GitHub Pages' built-in Jekyll support. No JavaScript, external fonts or paid services are required.
+A custom responsive design for https://fquatraro-unito.github.io, using GitHub Pages' built-in Jekyll support. No JavaScript or paid services are required; the Inter and Newsreader typefaces load from Google Fonts.
 
 ## How publishing works
 

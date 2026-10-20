@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research projects
+description: National and European research projects, competitive grants and policy-oriented consultancy.
 permalink: /projects/
 ---
 

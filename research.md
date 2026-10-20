@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research
+description: Research strands, methods, leadership and policy advice on innovation, sustainability and regional development.
 permalink: /research/
 ---
 
