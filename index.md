@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome
 
-<img class="profile-image" src="{{ '/Francesco Quatraro.jpg' | relative_url }}" alt="Francesco Quatraro">
+<img class="profile-image" src="{{ '/assets/francesco-quatraro.jpg' | relative_url }}" alt="Francesco Quatraro">
 
 I am Full Professor of Economics at the Department of Economics and Statistics “Cognetti de Martiis”, University of Torino; Fellow at BRICK – Collegio Carlo Alberto; and external affiliate at GREDEG, CNRS and Université Côte d’Azur.
 
