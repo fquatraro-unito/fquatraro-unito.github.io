@@ -2,6 +2,7 @@
 layout: default
 body_class: pubs
 title: Publications
+description: Representative work organised by research strand, followed by further articles, books, special issues and chapters.
 permalink: /publications/
 ---
 

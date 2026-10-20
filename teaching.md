@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Teaching and roles
+description: Programmes, courses, doctoral supervision and current academic roles.
 permalink: /teaching/
 ---
 

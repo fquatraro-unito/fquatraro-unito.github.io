@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Profiles and links
+description: How to reach me, and where to find my work across university, research and professional profiles.
 permalink: /profiles/
 ---
 
