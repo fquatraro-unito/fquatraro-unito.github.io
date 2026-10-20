@@ -2,26 +2,42 @@
 
 A custom responsive design for https://fquatraro-unito.github.io, using GitHub Pages' built-in Jekyll support. No JavaScript, external fonts or paid services are required.
 
-## Publish through the GitHub website
+## How publishing works
 
-1. Sign in as `fquatraro-unito`.
-2. Check your repositories. If `fquatraro-unito.github.io` exists, review and back up its content before uploading anything. Otherwise create a **public** repository with exactly that name, and initialize it with a README.
-3. Extract this ZIP. In the repository select **Add file → Upload files**. Upload the contents of the `website` folder, including `_layouts` and `assets`. Do not upload the ZIP itself or an enclosing `website` folder. Replace the initial README with this one if appropriate.
-4. Commit the upload to `main`.
-5. Open **Settings → Pages**. Under Build and deployment choose **Deploy from a branch**, select **main** and **/ (root)**, then Save.
-6. Wait for the Pages build to complete (it may take up to 10 minutes), then visit https://fquatraro-unito.github.io.
+This repository is already live. GitHub Pages builds the site from the `main` branch (root folder) and publishes it at https://fquatraro-unito.github.io. Every commit to `main` triggers a rebuild, which usually takes a minute or two. You can follow it under the repository's **Actions** tab, and check the Pages settings under **Settings → Pages**.
 
-Official instructions: https://docs.github.com/en/pages/quickstart
+### Edit in the browser
+
+1. Open the file you want to change (for example `research.md`) on GitHub and select the pencil icon.
+2. Make your edits, then choose **Commit changes** and commit directly to `main`.
+3. Wait for the Pages build to finish, then reload the site.
+
+### Replace the profile photo
+
+The photo lives at `assets/francesco-quatraro.jpg` and is shown on the home page. To change it, open the `assets` folder, choose **Add file → Upload files**, and upload a square JPEG named exactly `francesco-quatraro.jpg` (about 720 × 720 pixels keeps the page fast). File names without spaces avoid broken links.
+
+### Edit locally (optional)
+
+```
+git clone https://github.com/fquatraro-unito/fquatraro-unito.github.io.git
+cd fquatraro-unito.github.io
+# edit files, then
+git add -A
+git commit -m "Describe your change"
+git push origin main
+```
+
+Official documentation: https://docs.github.com/en/pages
 
 ## Update your content
 
-Open `index.md` in GitHub and select the pencil icon. Edit the prose, then commit the changes. GitHub rebuilds the website automatically.
+Each page is a Markdown file: `index.md` (home), `research.md`, `publications.md`, `teaching.md` and `profiles.md`.
 
 - `## Heading` creates a section heading.
 - `### Heading` creates a smaller heading.
 - `- Text` creates a list item.
 - `[Link text](https://example.org)` creates a link.
-- Keep the three-line front matter at the beginning and the heading IDs (`{: #research }`, etc.) intact so the navigation works.
+- Keep the front matter (the lines between `---` at the top of each page) intact so the layout and navigation work.
 - Colours, spacing and typography live in `assets/style.css`.
 - The header, introductory text and footer live in `_layouts/default.html`.
 - Site title and metadata live in `_config.yml`.
