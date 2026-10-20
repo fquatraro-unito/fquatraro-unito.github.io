@@ -15,13 +15,13 @@ Official instructions: https://docs.github.com/en/pages/quickstart
 
 ## Update your content
 
-Open `index.md` in GitHub and select the pencil icon. Edit the prose, then commit the changes. GitHub rebuilds the website automatically.
+Each page has its own Markdown file (`index.md`, `research.md`, `publications.md`, `teaching.md`, `profiles.md`). Open the one you want in GitHub and select the pencil icon. Edit the prose, then commit the changes. GitHub rebuilds the website automatically.
 
 - `## Heading` creates a section heading.
 - `### Heading` creates a smaller heading.
 - `- Text` creates a list item.
 - `[Link text](https://example.org)` creates a link.
-- Keep the three-line front matter at the beginning and the heading IDs (`{: #research }`, etc.) intact so the navigation works.
+- Keep the front matter (the lines between `---` at the top of each file) intact; the navigation links point to pages such as `/research/`, not to heading IDs.
 - Colours, spacing and typography live in `assets/style.css`.
 - The header, introductory text and footer live in `_layouts/default.html`.
 - Site title and metadata live in `_config.yml`.
