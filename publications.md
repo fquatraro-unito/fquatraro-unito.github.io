@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Publications
 
-These are my publications, organised into three main strands. For the complete chronological record, see [ORCID](https://orcid.org/0000-0001-5746-2239), [Google Scholar](https://scholar.google.it/citations?user=R2aklowAAAAJ&hl=en) and [IDEAS/RePEc](https://ideas.repec.org/e/pqu42.html).
+These are my publications. Representative journal articles are organised into three main strands, followed by further journal articles, books, edited special issues and book chapters. For the complete chronological record, see [ORCID](https://orcid.org/0000-0001-5746-2239), [Google Scholar](https://scholar.google.it/citations?user=R2aklowAAAAJ&hl=en) and [IDEAS/RePEc](https://ideas.repec.org/e/pqu42.html).
 
 ## Circular economy, green innovation and sustainability transitions
 
@@ -65,10 +65,61 @@ This cluster includes firm growth, entrepreneurship, corporate governance, labor
 - Arouri, H., Ben Youssef, A., Quatraro, F., &amp; Vivarelli, M. (2016). Entry, exit and net job creation in Tunisia: an exploratory analysis. *Eurasian Business Review*. DOI: [10.1007/s40821-016-0064-2](https://doi.org/10.1007/s40821-016-0064-2)
 - Quatraro, F., &amp; Vivarelli, M. (2015). Drivers of entrepreneurship and post-entry performance of newborn firms in developing countries. *World Bank Research Observer*. DOI: [10.1093/wbro/lku012](https://doi.org/10.1093/wbro/lku012)
 - Colombelli, A., Krafft, J., &amp; Quatraro, F. (2014). High-growth firms and technological knowledge: Do gazelles follow exploration or exploitation strategies? *Industrial and Corporate Change*. DOI: [10.1093/icc/dtt053](https://doi.org/10.1093/icc/dtt053)
-- Bianchini, S., Krafft, J., Quatraro, F., &amp; Ravix, J.-L. (2014). Corporate governance, value and performance of firms: new empirical results on convergence from a large international database. *Industrial and Corporate Change*. DOI: [10.1093/icc/dtt007](https://doi.org/10.1093/icc/dtt007)
+- Krafft, J., Qu, Y., Quatraro, F., &amp; Ravix, J.-L. (2014). Corporate governance, value and performance of firms: new empirical results on convergence from a large international database. *Industrial and Corporate Change*. DOI: [10.1093/icc/dtt007](https://doi.org/10.1093/icc/dtt007)
 - Colombelli, A., &amp; Quatraro, F. (2014). The persistence of firms' knowledge base: a quantile approach to Italian data. *Economics of Innovation and New Technology*. DOI: [10.1080/10438599.2013.871164](https://doi.org/10.1080/10438599.2013.871164)
 - Krafft, J., Quatraro, F., &amp; Saviotti, P. P. (2014). Knowledge characteristics and the dynamics of technological alliances in pharmaceuticals. *Journal of Evolutionary Economics*. DOI: [10.1007/s00191-014-0338-8](https://doi.org/10.1007/s00191-014-0338-8)
 - Colombelli, A., Krafft, J., &amp; Quatraro, F. (2013). Properties of knowledge base and firm survival: evidence from French manufacturing firms. *Technological Forecasting and Social Change*. DOI: [10.1016/j.techfore.2013.03.003](https://doi.org/10.1016/j.techfore.2013.03.003)
 - Quatraro, F. (2012). The economics of structural change in knowledge. *Routledge*. DOI: [10.4324/9780203123270](https://doi.org/10.4324/9780203123270)
 - Quatraro, F. (2011). ICT capital and services complementarities: The Italian evidence. *Applied Economics*. DOI: [10.1080/00036840903299805](https://doi.org/10.1080/00036840903299805)
 - Quatraro, F. (2010). Recombinant knowledge and growth: The case of ICTs. *Structural Change and Economic Dynamics*. DOI: [10.1016/j.strueco.2009.12.001](https://doi.org/10.1016/j.strueco.2009.12.001)
+
+## Further journal articles
+
+- Piscitello, L., Quatraro, F., Rasmussen, E., &amp; Srai, J. S. (2026). Innovation ecosystems for a circular economy. *Industry and Innovation*.
+- Coda Zabetta, M., Fusillo, F., Quatraro, F., &amp; Scandura, A. (2025). Knowledge brokers for circular bioeconomy: evidence from European regions. *Economics of Innovation and New Technology*.
+- Baudino, M., Krafft, J., &amp; Quatraro, F. Exploring the direct rebound effects for residential electricity demand in urban environments: evidence from Nice. *Annals of Regional Science*.
+- Cottafava, D., Gastaldo, M., Quatraro, F., &amp; Santhià, C. (2022). Modeling economic losses and greenhouse gas emissions reduction during the COVID-19 pandemic: past, present, and future scenarios for Italy. *Economic Modelling*, 110, 105807.
+- Colombelli, A., Orsatti, G., &amp; Quatraro, F. (2021). Local knowledge composition and the emergence of entrepreneurial activities across industries: evidence from Italian NUTS-3 regions. *Small Business Economics*, 56(2), 613–635.
+- Dughera, S., Quatraro, F., &amp; Vittori, C. (2021). Innovation, on-the-job learning, and labor contracts: an organizational equilibria approach. *Journal of Institutional Economics*.
+- Ranjbari, M., Esfandabadi, Z. S., Scagnelli, S. D., Siebers, P.-O., &amp; Quatraro, F. (2021). Recovery agenda for sustainable development post COVID-19 at the country level: developing a fuzzy action priority surface. *Environment, Development and Sustainability*.
+- Ranjbari, M., et al. (2021). Three pillars of sustainability in the wake of COVID-19: a systematic review and future research agenda for sustainable development. *Journal of Cleaner Production*, 126660.
+- Ranjbari, M., et al. (2021). Two decades of research on waste management in the circular economy: insights from bibliometric, text mining, and content analyses. *Journal of Cleaner Production*, 128009.
+- Fusillo, F., Quatraro, F., &amp; Usai, S. (2020). Going green: the dynamics of green technological alliances. *Economics of Innovation and New Technology*.
+- Colombelli, A., Ghisetti, C., &amp; Quatraro, F. (2020). Green technologies and firms’ market value: a micro-econometric analysis of European firms. *Industrial and Corporate Change*.
+- Consoli, D., Orsatti, G., Perruchas, F., &amp; Quatraro, F. (2020). Public procurement, local labor markets and green technological change: evidence from US commuting zones. *Environmental and Resource Economics*.
+- Grinza, E., &amp; Quatraro, F. (2019). Workers’ replacements and firms’ innovation dynamics: new evidence from Italian matched longitudinal data. *Research Policy*, 48(9), 103804.
+- Colombelli, A., &amp; Quatraro, F. (2019). Green start-ups and local knowledge spillovers from clean and dirty technologies. *Small Business Economics*, 52(4), 773–792.
+- Arouri, H., Ben Youssef, A., Quatraro, F., &amp; Vivarelli, M. Drivers of growth in Tunisia: young firms vs incumbents. *Small Business Economics*.
+- Colombelli, A., &amp; Quatraro, F. (2018). New firm formation and regional knowledge production modes: Italian evidence. *Research Policy*, 47, 139–157.
+- Bianchini, S., Krafft, J., Quatraro, F., &amp; Ravix, J.-L. (2018). Corporate governance, innovation and firm age: insights and new evidence. *Industrial and Corporate Change*, 27, 349–370.
+- Ghisetti, C., &amp; Quatraro, F. (2017). Is green knowledge improving environmental productivity? Sectoral evidence from Italian regions. *Ecological Economics*, 132, 1–13.
+- Colombelli, A., Krafft, J., &amp; Quatraro, F. (2014). The emergence of new technology-based sectors in European regions: a proximity-based analysis of nanotechnology. *Research Policy*, 43, 1681–1696.
+- Krafft, J., Quatraro, F., &amp; Saviotti, P. P. (2014). The dynamics of knowledge-intensive sectors’ knowledge base: evidence from biotechnology and telecommunications. *Industry and Innovation*, 21, 215–242.
+- Antonelli, C., &amp; Quatraro, F. (2014). The effects of biased technological changes on total factor productivity: a rejoinder and new empirical evidence. *Journal of Technology Transfer*, 39(2), 281–299.
+- Ghisetti, C., &amp; Quatraro, F. (2013). Beyond inducement in climate change: does environmental performance spur environmental technologies? A regional analysis of cross-sectoral differences. *Ecological Economics*, 96, 99–113.
+- Antonelli, C., &amp; Quatraro, F. (2013). Localized technological change and efficiency wages: the evidence across European regions. *Regional Studies*, 47, 1686–1700.
+- Krafft, J., Quatraro, F., &amp; Saviotti, P. P. (2011). The knowledge base evolution in biotechnology: a social network analysis. *Economics of Innovation and New Technology*, 20, 445–475.
+
+## Books
+
+- Crespi, F., &amp; Quatraro, F. (Eds.) (2015). *Knowledge, innovation and systemic technology policy*. London and New York: Routledge.
+- Quatraro, F. (2012). *The economics of structural change in knowledge*. New York and London: Routledge. DOI: [10.4324/9780203123270](https://doi.org/10.4324/9780203123270)
+
+## Edited special issues
+
+- “Knowledge flows, externalities and innovation networks: micro, meso and macro approaches”, edited by F. Quatraro and S. Usai, *Regional Studies*.
+- “Firm age and performance”, edited by A. Coad, J. R. Holm, J. Krafft and F. Quatraro, *Journal of Evolutionary Economics*.
+- “Emergence and evolution of new industries: the path-dependent dynamics of knowledge creation”, edited by J. Krafft, S. Lechevalier, F. Quatraro and C. Storz, *Research Policy*.
+- “Systemic technology policy: issues and instruments”, edited by F. Crespi and F. Quatraro, *Technological Forecasting and Social Change*, 80(8), 2013.
+- “The dynamics of knowledge and innovation in knowledge-intensive industries”, edited by J. Krafft, F. Quatraro and P. P. Saviotti, *Economics of Innovation and New Technology*, 20(5), 2011.
+
+## Book chapters
+
+- Ciffolilli, A., Fusillo, F., Quatraro, F., &amp; Scandura, A. (2025). The geography of knowledge networks for the circular bioeconomy: evidence from collaborative research projects across EU regions. In *Research Handbook of Innovation in the Circular Bioeconomy* (pp. 138–155). Edward Elgar.
+- Colombelli, A., &amp; Quatraro, F. (2019). Green startups and local knowledge bases: newborn suppliers of energy related technologies in Italian provinces. In *Handbook on Green Growth*. Edward Elgar.
+- Colombelli, A., Orsatti, G., &amp; Quatraro, F. (2019). Entrepreneurship, technological knowledge and industrial heterogeneity: evidence from Italian NUTS 3 regions. In *Handbook of Research on Techno-Entrepreneurship* (3rd ed.). Edward Elgar.
+- Colombelli, A., &amp; Quatraro, F. (2012). The European firm. In M. Dietrich &amp; J. Krafft (Eds.), *Handbook on the Economics and Theory of the Firm*. Cheltenham: Edward Elgar.
+- Quatraro, F. (2011). Knowledge structure and regional economic growth: the French case. In G. D. Libecap &amp; S. Hoskinson (Eds.), *Entrepreneurship and Global Competitiveness in Regional Economies* (Advances in the Study of Entrepreneurship, Innovation and Economic Growth, Vol. 22, pp. 185–217). Emerald.
+- Krafft, J., &amp; Quatraro, F. (2011). The dynamics of technological knowledge: from linearity to recombination. In C. Antonelli (Ed.), *Handbook on the System Dynamics of Technological Change* (pp. 181–200). Cheltenham: Edward Elgar.
+- Antonelli, C., Patrucco, P. P., &amp; Quatraro, F. (2008). The economics of information and communication technologies. In *International Encyclopedia of Communication*. Oxford: Blackwell.
+- Antonelli, C., Patrucco, P. P., &amp; Quatraro, F. (2007). La grande onda schumpeteriana alla fine del XX secolo. Transizioni tecnologiche e modelli economici nel caso italiano. In G. Berta (Ed.), *Una trasformazione in atto: il Nord Italia*. Annali della Fondazione Giangiacomo Feltrinelli 2007. Milano: Feltrinelli.
