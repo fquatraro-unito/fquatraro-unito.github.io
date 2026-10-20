@@ -12,9 +12,9 @@ University of Torino, Lungo Dora Siena 100A, 10153 Torino, Italy<br>
 
 ## Profiles and institutional links
 
-- [Department of Economics and Statistics “Cognetti de Martiis”, University of Torino](http://www.est.unito.it/)
-- [Collegio Carlo Alberto](http://www.carloalberto.org/)
-- [BRICK](http://www.brick.carloalberto.org/)
+- [Department of Economics and Statistics “Cognetti de Martiis”, University of Torino](https://www.est.unito.it/)
+- [Collegio Carlo Alberto](https://www.carloalberto.org/)
+- [BRICK](https://www.brick.carloalberto.org/)
 - [Global Labor Organization](https://glabor.org/)
 - [GRINS – Growing, Resilient, INclusive and Sustainable](https://www.grins.it/)
 - [ICxT Innovation Center](https://www.icxt.unito.it/)

@@ -51,9 +51,9 @@ This cluster focuses on regional diversification, knowledge flows, innovation ne
 - Antonelli, C., Patrucco, P. P., &amp; Quatraro, F. (2011). Productivity growth and pecuniary knowledge externalities: an empirical analysis of agglomeration economies in European regions. *Economic Geography*. DOI: [10.1111/j.1944-8287.2010.01104.x](https://doi.org/10.1111/j.1944-8287.2010.01104.x)
 - Quatraro, F. (2010). Knowledge coherence, variety and economic growth: manufacturing evidence from Italian regions. *Research Policy*. DOI: [10.1016/j.respol.2010.09.005](https://doi.org/10.1016/j.respol.2010.09.005)
 
-## Firms, labor markets, entrepreneurship and technological change
+## Firms, labour markets, entrepreneurship and technological change
 
-This cluster includes firm growth, entrepreneurship, corporate governance, labor-market dynamics, wages, skills, ICTs, knowledge bases and the microeconomics of innovation.
+This cluster includes firm growth, entrepreneurship, corporate governance, labour-market dynamics, wages, skills, ICTs, knowledge bases and the microeconomics of innovation.
 
 ### Recent and representative publications
 

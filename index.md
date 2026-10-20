@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome
 
-<img class="profile-image" src="{{ '/Francesco Quatraro.jpg' | relative_url }}" alt="Francesco Quatraro">
+<img class="profile-image" src="{{ '/assets/francesco-quatraro.jpg' | relative_url }}" alt="Francesco Quatraro">
 
 I am Full Professor of Economics at the Department of Economics and Statistics “Cognetti de Martiis”, University of Torino; Fellow at the Collegio Carlo Alberto; Fellow of the Global Labor Organization; and external affiliate at GREDEG, CNRS and Université Côte d’Azur. I co-edit *Spatial Economic Analysis* and the *Italian Economic Journal*, direct the ICxT Innovation Center and co-direct the International MSc Programme in Economics of Innovation for Sustainable Development.
 

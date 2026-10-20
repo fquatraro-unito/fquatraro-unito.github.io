@@ -6,8 +6,6 @@ permalink: /research/
 
 ## Research
 
-My research lies at the intersection of economics of innovation, green and circular economy, economic geography, industrial dynamics, knowledge production and labour-market change. I study how technologies, skills and knowledge networks shape firm performance, regional development and sustainable transitions, using applied econometrics and policy-evaluation methods.
-
 ### Research strands
 
 - **Circular economy, green innovation and sustainability transitions:** circular economy technologies, green investments, eco-innovation, environmental policy, sustainable development and digital tools for circular transformation.
