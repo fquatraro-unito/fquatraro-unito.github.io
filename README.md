@@ -39,7 +39,8 @@ Each page is a Markdown file: `index.md` (home), `research.md`, `publications.md
 - `[Link text](https://example.org)` creates a link.
 - Keep the front matter (the lines between `---` at the top of each page) intact so the layout and navigation work.
 - Colours, spacing and typography live in `assets/style.css`.
-- The header, introductory text and footer live in `_layouts/default.html`.
+- The header, navigation and footer live in `_layouts/base.html`; the home-page hero, photo and contact block live in `_layouts/home.html`.
+- Every `## Heading` in a page becomes its own numbered section (heading on the left, text on the right), so adding a section only needs a new `##` heading.
 - Site title and metadata live in `_config.yml`.
 
 ## Migrated content
