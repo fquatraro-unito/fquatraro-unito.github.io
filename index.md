@@ -1,14 +1,14 @@
 ---
-layout: default
+layout: home
 ---
 
-## Welcome
-
-<img class="profile-image" src="{{ '/assets/francesco-quatraro.jpg' | relative_url }}" alt="Francesco Quatraro">
+## About my work
 
 I am Full Professor of Economics at the Department of Economics and Statistics “Cognetti de Martiis”, University of Torino; Fellow at the Collegio Carlo Alberto; Fellow of the Global Labor Organization; and external affiliate at GREDEG, CNRS and Université Côte d’Azur. I co-edit *Spatial Economic Analysis* and the *Italian Economic Journal*, direct the ICxT Innovation Center and co-direct the International MSc Programme in Economics of Innovation for Sustainable Development.
 
 My research lies at the intersection of economics of innovation, green and circular economy, economic geography, industrial dynamics, knowledge production and labour-market change. I study how technologies, skills and knowledge networks shape firm performance, regional development and sustainable transitions, using applied econometrics and policy-evaluation methods. I coordinate Spoke 5 – Innovation Ecosystems for the Circular Economy of the GRINS partnership (PNRR) and have advised the European Commission Joint Research Centre on strategic technologies.
+
+## Explore the site
 
 <div class="home-links" aria-label="Explore the website">
 <a href="{{ '/research/' | relative_url }}"><strong>Research</strong><span>Research themes, leadership and collaboration</span></a>

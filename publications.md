@@ -1,5 +1,6 @@
 ---
 layout: default
+body_class: pubs
 title: Publications
 permalink: /publications/
 ---

@@ -1,0 +1,17 @@
+{%- comment -%}
+Turns each "## Heading" of a page into a numbered two-column section:
+the heading on the left, everything up to the next "## Heading" on the right.
+{%- endcomment -%}
+{%- assign parts = include.html | split: "<h2" -%}
+{%- assign n = 0 -%}
+{%- for part in parts -%}
+{%- if forloop.first -%}{%- assign lead = part | strip -%}{%- if lead != "" -%}<section class="section-grid"><div></div><div class="prose">{{ part }}</div></section>{%- endif -%}{%- continue -%}{%- endif -%}
+{%- assign n = n | plus: 1 -%}
+{%- assign head = part | split: "</h2>" | first -%}
+{%- assign body = part | remove_first: head | remove_first: "</h2>" -%}
+{%- assign id = head | split: 'id="' | last | split: '"' | first -%}
+{%- assign title = head | split: ">" | last | strip -%}
+{%- assign label = title | strip_html -%}
+{%- if label == include.page_title -%}{%- assign title = "Overview" -%}{%- assign label = "Overview" -%}{%- endif -%}
+<section class="section-grid" id="{{ id }}" aria-labelledby="{{ id }}-title"><div class="section-head"><p class="section-number">{% if n < 10 %}0{% endif %}{{ n }}</p><h2 id="{{ id }}-title">{{ title }}</h2></div><div class="prose">{{ body }}</div></section>
+{%- endfor -%}
