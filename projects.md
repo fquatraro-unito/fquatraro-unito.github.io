@@ -11,12 +11,13 @@ I coordinate and take part in national and European research projects on circula
 
 ## Current projects
 
+- **Circular Economy Data, Models and Indicators for Transition Analytics (CIRCE-DATA)** (2026–2029). Research Project of National Interest, PRIN 2026. Local PI.
 - **Green finance and vocational training for corporate compliance** (2026–2028). Scientific coordinator.
-- **GRINS – Growing, Resilient, INclusive and Sustainable** (2023–2026). Extended Partnership funded by the Italian National Recovery and Resilience Plan (PNRR). Coordinator of Spoke 5 – Innovation Ecosystems for the Circular Economy. [grins.it](https://www.grins.it/)
 - **VisitPNRR – The PNRR in the twin and circular transition: ex-ante evaluation and ex-post indicators** (2025–2026). Scientific coordinator.
 
 ## Past projects
 
+- **GRINS – Growing, Resilient, INclusive and Sustainable** (2023–2026). Extended Partnership funded by the Italian National Recovery and Resilience Plan (PNRR). Coordinator of Spoke 5 – Innovation Ecosystems for the Circular Economy. [grins.it](https://www.grins.it/)
 - **Circular Economy Innovation and the socio-economic impacts on sectors and regions** (2023–2025). Research Project of National Interest, PRIN 2022 PNRR. Scientific coordinator.
 - **Innovation and labour market dynamics** (2023–2025). Research Project of National Interest, PRIN 2022. Local principal investigator.
 - **Innovation and global challenges in an interconnected world: the role of local resources and socio-economic conditions** (2020–2023). Research Project of National Interest, PRIN 2017. Scientific coordinator.
