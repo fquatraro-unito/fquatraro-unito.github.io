@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ProfilePage",
+  "url": "{{ '/' | absolute_url }}",
+  "mainEntity": {
+    "@type": "Person",
+    "@id": "{{ '/' | absolute_url }}#person",
+    "name": "Francesco Quatraro",
+    "givenName": "Francesco",
+    "familyName": "Quatraro",
+    "url": "{{ '/' | absolute_url }}",
+    "image": "{{ '/assets/francesco-quatraro.jpg' | absolute_url }}",
+    "jobTitle": "Full Professor of Economics",
+    "worksFor": {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Torino",
+      "alternateName": "Università degli Studi di Torino",
+      "url": "https://www.unito.it/",
+      "department": {
+        "@type": "Organization",
+        "name": "Department of Economics and Statistics “Cognetti de Martiis”",
+        "url": "https://www.est.unito.it/"
+      }
+    },
+    "affiliation": [
+      { "@type": "Organization", "name": "Collegio Carlo Alberto", "url": "https://www.carloalberto.org/" },
+      { "@type": "Organization", "name": "Global Labor Organization", "url": "https://glabor.org/" },
+      { "@type": "Organization", "name": "GREDEG, CNRS and Université Côte d’Azur", "url": "https://gredeg.univ-cotedazur.eu/" }
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Lungo Dora Siena 100A",
+      "postalCode": "10153",
+      "addressLocality": "Torino",
+      "addressCountry": "IT"
+    },
+    "knowsAbout": [
+      "Economics of innovation",
+      "Green and circular economy",
+      "Economic geography",
+      "Regional development",
+      "Industrial dynamics",
+      "Labour economics",
+      "Applied econometrics",
+      "Policy evaluation"
+    ],
+    "sameAs": [
+      "https://orcid.org/0000-0001-5746-2239",
+      "https://scholar.google.it/citations?user=R2aklowAAAAJ",
+      "https://ideas.repec.org/e/pqu42.html",
+      "https://github.com/fquatraro-unito"
+    ]
+  }
+}
