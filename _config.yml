@@ -13,3 +13,10 @@ plugins:
 # Google Search Console: choose "HTML tag" verification and paste only the
 # content="..." value here, e.g. google_site_verification: abc123XYZ
 google_site_verification:
+
+# Keep Google's verification file out of the sitemap.
+defaults:
+  - scope:
+      path: "google*.html"
+    values:
+      sitemap: false
