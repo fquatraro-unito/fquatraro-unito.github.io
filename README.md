@@ -48,3 +48,7 @@ Each page is a Markdown file: `index.md` (home), `research.md`, `publications.md
 The site is organised into a home page, research, publications, teaching and roles, and profiles and links. The content was migrated from the public Google Sites profile on 23 September 2026. The publications page preserves the three source research strands, all 44 representative publications, and their DOI links.
 
 The previous Google Sites profile remains linked from the profiles page for reference. Current roles, institutional links and external researcher profiles should be reviewed periodically.
+
+## Search engines
+
+Page titles, descriptions, canonical links, Open Graph tags and `schema.org` Person data are generated in `_layouts/base.html` (the Person data lives in `_includes/person.json` and appears on the home page). GitHub Pages builds `/sitemap.xml` automatically, and `robots.txt` points search engines to it. To verify the site in Google Search Console, choose the "HTML tag" method and paste the code into `google_site_verification` in `_config.yml`.
